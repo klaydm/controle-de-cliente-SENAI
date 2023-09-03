@@ -1,0 +1,15 @@
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.exe
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.deps.json
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.runtimeconfig.json
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.dll
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\bin\Debug\net6.0\ControleDeClientes.pdb
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.csproj.AssemblyReference.cache
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.AssemblyInfoInputs.cache
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.AssemblyInfo.cs
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.csproj.CoreCompileInputs.cache
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.dll
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\refint\ControleDeClientes.dll
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.pdb
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ControleDeClientes.genruntimeconfig.cache
+C:\Kennedy\C#\projetos\ControleDeClientes\ControleDeClientes\obj\Debug\net6.0\ref\ControleDeClientes.dll
